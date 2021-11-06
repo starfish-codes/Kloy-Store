@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Kloy-Core",
+        "repositoryURL": "https://github.com/starfish-codes/Kloy-Core.git",
+        "state": {
+          "branch": "main",
+          "revision": "98cad175b440cb6730c719e397e77604a5a51a3a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
